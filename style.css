@@ -1,0 +1,39 @@
+.lap{
+  border:3px solid #87ceeb;
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  color: #87ceeb;
+  padding:10px;
+}
+.demo {
+    background-color:#87ceeb; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.demo{
+  text-align: center;
+  margin-left:75%;
+}
+span{
+  color:white;
+  font-size:15px;
+}
+h3{
+  color:#D3D3D3;
+  padding-left:10px;
+}
+.para{
+  text-align: justify;
+  padding:10px;
+}
+h1{
+  font-family:Roboto;
+}
